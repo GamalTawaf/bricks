@@ -1,7 +1,15 @@
 {
   "name": "bricks",
+  "description": "A Breakout-style browser game built with Svelte, with Classic and Endless modes.",
+  "author": "Gamal Tawaf",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GamalTawaf/bricks.git"
+  },
+  "homepage": "https://gamaltawaf.github.io/bricks/",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "packageManager": "pnpm@11.3.0",
   "scripts": {
