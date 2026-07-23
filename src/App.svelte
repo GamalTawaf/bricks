@@ -51,6 +51,7 @@
       </button>
     </div>
     <p class="hint">Move with your mouse, finger, or the arrow keys.</p>
+    <a class="source-link" href="https://github.com/GamalTawaf/bricks" target="_blank" rel="noopener">View source on GitHub</a>
   </div>
 {:else if screen === 'game'}
   {#key restartToken}
@@ -87,6 +88,13 @@
   .hint {
     margin-top: 20px;
     font-size: 14px;
+  }
+
+  .source-link {
+    display: inline-block;
+    margin-top: 12px;
+    font-size: 13px;
+    color: #b5b4c0;
   }
 
   .mode-buttons {
