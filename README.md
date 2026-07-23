@@ -2,6 +2,8 @@
 
 A browser Breakout game built with Svelte + Vite.
 
+![Bricks gameplay](docs/screenshot.jpg)
+
 ## Run
 
 ```
